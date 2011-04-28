@@ -1,0 +1,54 @@
+html {
+background: url(img/bkg.png) repeat;
+background-position:top;
+}
+
+body {
+	font-family: "Trebuchet MS",Helvetica, Arial, sans-serif;
+
+	font-size: 15px;
+	color: #FFF;
+}
+
+p {
+	font-family: "Trebuchet MS",Helvetica, Arial, sans-serif;
+
+	font-size: 18px;
+	color: #ddd;
+}
+
+a {
+	font-family: "Trebuchet MS",Helvetica, Arial, sans-serif;
+
+	color: #FFF;
+}
+
+h1 {
+	padding-top: 35px;
+	margin-bottom: 10px;
+	font-family: "domyouji-1","domyouji-2",sans-serif;
+	font-size: 55px;
+	color: #eee;
+	text-shadow: #bbb 0px 1px 0px;
+}
+
+
+h1 #for_ipad{
+	font-size: 23px;
+	color: #aaa;
+	text-shadow: none;
+
+}
+
+.check {
+	vertical-align:-18%;
+}
+
+#text {
+	text-align: left;
+	margin-top: 70px;
+}
+
+#appstore {
+	margin-left:  -25px;
+}
